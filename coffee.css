@@ -118,7 +118,7 @@
       
       width: 1366px;
       margin: auto;
-      margin-top: 200px !important;
+      margin-top: 70px !important;
       
     }
     .service{
@@ -238,7 +238,7 @@
       
       width: 1366px;
       margin: auto;
-      margin-top: 200px !important;
+      margin-top: 100px !important;
       
     }
     .client{
@@ -306,5 +306,82 @@
       position: relative;
       bottom: -125px;
       left: 0px;
+    }
+    footer{
+      background-color: #630F2B;
+      width: 1366px;
+      height: 370px;
+      margin-top: 70px;
+    }
+    .img10{
+      position: relative;
+      top: 85px;
+      left: 66px;
+      width: 209px;
+      height: auto;
+    }
+    .fot1{
+      width: 382px;
+      height: auto;
+      text-align: left;
+      font: normal normal normal 16px/23px Poppins;
+      letter-spacing: 0px;
+      color: white;
+      position: relative;
+      top: 195px;
+      left: 66px;
+      font-weight: 300;
+    }
+    .fot2{
+      width: 384px;
+      height: auto;
+      text-align: left;
+      font: normal normal normal 16px/23px Poppins;
+      letter-spacing: 0px;
+      color: white;
+      position: relative;
+      top: -23px;
+      left: 536px;
+      font-weight: 300;
+    }
+    .fot3{
+      width: 254px;
+      height: auto;
+      text-align: left;
+      font: normal normal normal 16px/23px Poppins;
+      letter-spacing: 0px;
+      color: white;
+      position: relative;
+      top: 30px;
+      left: 536px;
+      font-weight: 300;
+    }
+    .fot4{
+      width: 228px;
+      height: auto;
+      text-align: left;
+      font: normal normal normal 16px/23px Poppins;
+      letter-spacing: 0px;
+      color: white;
+      position: relative;
+      top: -114px;
+      left: 996px;
+      font-weight: 300;
+    }
+    .text20{
+      margin-top: 70px;
+      text-align: left;
+      font: normal normal bold 45px/53px Rubik;
+      letter-spacing: 0px;
+      color: #630F2B;
+      margin-bottom: 50px;
+      position: relative;
+      left: 18.2%;
+      width: 861px;
+    }
+    .img15{
+      position: relative;
+      left: 117px;
+      margin-bottom: 30px;
     }
 }

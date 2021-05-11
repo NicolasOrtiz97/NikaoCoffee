@@ -454,4 +454,37 @@
       box-sizing: border-box;
       resize: none !important;
     }
+    .epa3{
+      font: normal normal normal 58px/23px Poppins;
+    color: white;
+    position: relative;
+    top: 182px;
+    left: 352px;
+    }
+    .epa5{
+      display: flex;
+      position: relative;
+      top: 300px;
+      left: -20px;
+    }
+    a{
+      margin: 17px;
+    }
+    .epa8{
+      width: 272px;
+      height: 68px;
+      background-color: #F7AA14;
+    }
+    .epa7{
+      font: normal normal normal 26px/23px Poppins;
+      color: white;
+      position: relative;
+      top: 18px;
+      left: 92px;
+    }
+    .epa6{
+      position: relative;
+      top: 18px;
+      left: 37px;
+    }
 }

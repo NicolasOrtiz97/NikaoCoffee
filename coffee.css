@@ -820,6 +820,10 @@ a{
       width: 209px;
       height: auto;
     }
+    .info{
+      position: relative;
+      left: 801px;
+    }
     .fot1{
       width: 382px;
       height: auto;
@@ -961,7 +965,8 @@ a{
     color: white;
     position: relative;
     top: 182px;
-    left: 352px;
+    left: 166px;
+    width: 200px;
     }
     .epa5{
       display: flex;

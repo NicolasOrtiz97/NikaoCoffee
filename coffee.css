@@ -416,4 +416,42 @@
       top: 48px;
       left: 185px;
     }
+    input[type=text]{
+      width: 525px;
+      height: 50px;
+      padding: 12px 20px;
+      margin: 8px 0 20px 0;
+      box-sizing: border-box;
+    }
+    label{
+      font: normal normal normal 16px/23px Poppins;
+      color: #630F2B;
+    }
+    input[type=text]:focus{
+      border-color: #630F2B;
+    }
+    .epa{
+      margin-top: 84px;
+      margin-left: 55px;
+    }
+    input[type=submit]{
+      width: 168px;
+      height: 48px;
+      font: normal normal normal 16px/23px Poppins;
+      color: white;
+      background-color:#630F2B ;
+      border-style: none;
+    }
+    input[type=submit]:hover{
+      background-color: #44091C;
+      
+    }
+    textarea{
+      width: 525px;
+      height: 100px !important;
+      padding: 12px 20px;
+      margin: 8px 0 20px 0;
+      box-sizing: border-box;
+      resize: none !important;
+    }
 }

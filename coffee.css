@@ -68,13 +68,15 @@ h3{
 .sec2{
  
   width: 1920px;
-  height: 843px;
+  height: 1141px;
   margin: auto;
   
 }
 .sec3{
   position: relative;
   width: 900px;
+  top: 349px;
+  left: 64%;
 }
 .sec4{
   width: 488px;
@@ -86,7 +88,7 @@ h3{
   position: relative;
   top: 319px;
   left: 91px;
-  font: normal normal bold 22px/27px Rubik;
+  font: normal normal bold 36px/27px Rubik;
   letter-spacing: 0px;
   color: #F7AA14;
   font-family: 'Rubik', sans-serif;
@@ -95,10 +97,10 @@ h3{
   position: relative;
   top: 339px;
   left: 91px;
-  width: 73%;
+  width: 86%;
   height: auto;
   text-align: left;
-  font: normal normal 300 18px/35px Poppins;
+  font: normal normal 300 22px/35px Poppins;
   letter-spacing: 0px;
   color: #575353;
   font-family: 'Poppins', sans-serif;

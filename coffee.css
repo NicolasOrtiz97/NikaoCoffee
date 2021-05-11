@@ -317,7 +317,7 @@ footer{
   background-color: #630F2B;
   width: 1920px;
   height: 370px;
-  margin-top: 70px;
+  margin-top: 101px;
 }
 .img10{
   position: relative;
@@ -347,7 +347,7 @@ footer{
   color: white;
   position: relative;
   top: -23px;
-  left: 536px;
+  left: 717px;
   font-weight: 300;
 }
 .fot3{
@@ -359,7 +359,7 @@ footer{
   color: white;
   position: relative;
   top: 30px;
-  left: 536px;
+  left: 717px;
   font-weight: 300;
 }
 .fot4{
@@ -371,11 +371,11 @@ footer{
   color: white;
   position: relative;
   top: -114px;
-  left: 996px;
+  left: 1403px;
   font-weight: 300;
 }
 .text20{
-  margin-top: 70px;
+  margin-top: 145px;
   text-align: left;
   font: normal normal bold 45px/53px Rubik;
   letter-spacing: 0px;

@@ -68,21 +68,27 @@ h3{
 .sec2{
  
   width: 1920px;
-  height: 1141px;
+  height: 1453px;
   margin: auto;
+  overflow: hidden;
+  position: relative;
+  top: 434px;
+  display: flex;
   
 }
 .sec3{
   position: relative;
-  width: 900px;
+  width: 869px;
   top: 349px;
-  left: 64%;
+  left: 2%;
+  margin-left: 0%;
 }
 .sec4{
-  width: 488px;
+  width: 550px;
   position: relative;
-  top: -179px;
-  left: 859px;
+  top: 0%;
+  left: 26%;
+  overflow: hidden;
 }
 .tit1{
   position: relative;

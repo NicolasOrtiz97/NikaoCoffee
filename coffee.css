@@ -14,7 +14,7 @@
 }
 
 .img1{
-  width: 11440px;
+  width: 1440px;
   height: auto;
   position: absolute;
   top: 0%;
@@ -124,7 +124,7 @@ h3{
   width: 1440px;
   margin: auto;
   overflow: hidden;
-  margin-top: 70px !important;
+  margin-top: -263px !important;
   position: relative;
   left: 2%;
 }

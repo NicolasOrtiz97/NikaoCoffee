@@ -8,7 +8,7 @@
     
 }
 .p1{
-  width: 1920px;
+  width: 1440px;
   height: 768px;
   margin: auto;
 }
@@ -35,7 +35,7 @@ h1{
   position: relative;
   left: 6.58%;
   top: 201px;
-  width: 2000px;
+  width: 1330px;
 }
 .rect2{
     width: 284px;
@@ -474,6 +474,7 @@ color: white;
 position: relative;
 top: 251px;
 left: 205px;
+width: 100px;
 }
 .epa5{
   display: flex;

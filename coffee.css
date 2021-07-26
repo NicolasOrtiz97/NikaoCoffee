@@ -12,6 +12,17 @@
   height: 768px;
   margin: auto;
 }
+.alelu1{
+  width: 212px;
+height: 60px;
+position: relative;
+top: 261px;
+left: 71px;
+background-color: white;
+color: #630F2B;
+font: normal normal bold 18px/53px Rubik;
+border-style: none;
+}
 
 .img1{
   width: 1440px;
@@ -734,8 +745,8 @@ a{
       letter-spacing: 0px;
       color: #FFFFFF;
       position: relative;
-      top: 97px;
-      left: 94px;
+      top: 92px;
+      left: 79px;
       border-style: hidden;
     }
     .sec6{
@@ -759,7 +770,7 @@ a{
       margin-bottom: 50px;
       position: relative;
       left: 30.6%;
-      width: 528px;
+      width: 535px;
     }
     .cd2{
       width: 356px;
@@ -997,6 +1008,17 @@ a{
       position: relative;
       top: 18px;
       left: 37px;
+    }
+    .alelu1{
+      width: 212px;
+    height: 60px;
+    position: relative;
+    top: 261px;
+    left: 71px;
+    background-color: white;
+    color: #630F2B;
+    font: normal normal bold 18px/53px Rubik;
+    border-style: none;
     }
 }
 @media screen and (min-width: 1447px) {
@@ -1499,6 +1521,17 @@ a{
   position: relative;
   top: 18px;
   left: 37px;
+}
+.alelu1{
+  width: 212px;
+height: 60px;
+position: relative;
+top: 261px;
+left: 71px;
+background-color: white;
+color: #630F2B;
+font: normal normal bold 18px/53px Rubik;
+border-style: none;
 }
   
 }

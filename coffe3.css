@@ -1,0 +1,117 @@
+.nav122{
+    height: 80px;
+      width: 100%;
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      background-color: #630F2B;
+      
+      display: flex;
+}
+.logi{
+    height: 60px;
+    width: auto;
+    position: relative;
+    top: 16px;
+    left: 30px;
+  }
+.poreso{
+    height: 46px;
+  }
+ul{
+    display: flex;
+    position: relative;
+    top: 16px;
+    left: 131%;
+  }
+li{
+    color: #ffffff;
+    list-style: none;
+    outline-style: none;
+    font-family: 'Rubik', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+  }
+  .julio{
+    color: #ffffff;
+    font-style: none;
+    border-style: none;
+    text-decoration: none;
+  }
+  .julio:hover{
+    color: #F7AA14;
+  }
+  a{
+    margin: 17px;
+  }
+.for1x{
+    margin-top: 109px;
+    
+  }
+  .cuad54x{
+    display: flex;
+  }
+  .fon1x{
+    background-color: #630F2B;
+    width: 1366px;
+    height: 626px;
+    position: absolute;
+    top: 3259px;
+    left: 0px;
+    z-index: -1;
+  }
+  .formatox{
+    width: 638px;
+    height: 796px;
+    background-color: white;
+    box-shadow: 0px 0px 25px #00000029;
+    position: relative;
+    left: 112px;
+  }
+  .Ftitulox{
+    font: normal normal bold 24px/28px Rubik;
+    letter-spacing: 0px;
+    color: #630F2B;
+    position: relative;
+    top: 48px;
+    left: 29%;
+    width: 68%;
+  }
+  input[type=text]{
+    width:  91%;
+    height: 50px;
+    padding: 12px 20px;
+    margin: 8px 0 20px 0;
+    box-sizing: border-box;
+  }
+  label{
+    font: normal normal normal 16px/23px Poppins;
+    color: #630F2B;
+  }
+  input[type=text]:focus{
+    border-color: #630F2B;
+  }
+  .epa{
+    margin-top: 84px;
+    margin-left: 55px;
+  }
+  input[type=submit]{
+    width: 168px;
+    height: 48px;
+    font: normal normal normal 16px/23px Poppins;
+    color: white;
+    background-color:#630F2B ;
+    border-style: none;
+  }
+  input[type=submit]:hover{
+    background-color: #44091C;
+    
+  }
+  textarea{
+    width: 91%;
+    height: 100px !important;
+    padding: 12px 20px;
+    margin: 8px 0 20px 0;
+    box-sizing: border-box;
+    resize: none !important;
+  }

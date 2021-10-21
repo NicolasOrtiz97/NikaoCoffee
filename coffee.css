@@ -9,6 +9,10 @@
   background-color:#0745A5 ;
   cursor: pointer;
 }
+.bot1:hover{
+  background-color: #3D081A;
+  cursor: pointer;
+}
 
 
 @media screen and (max-width: 1444px) {

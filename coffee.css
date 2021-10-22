@@ -21,6 +21,46 @@
     
     
 }
+.nav1{
+  height: 80px;
+  width: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  
+  
+  display: flex;
+}
+.poreso{
+  height: 46px;
+}
+.logi{
+  height: 60px;
+  width: auto;
+  position: relative;
+  top: 16px;
+  left: 30px;
+}
+ul{
+  display: flex;
+  position: relative;
+  top: 32px;
+  left: 471%;
+}
+li{
+  color: #ffffff;
+  list-style: none;
+  outline-style: none;
+  font-family: 'Rubik', sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+}
+.julio{
+  color: #ffffff;
+  font-style: none;
+  border-style: none;
+  text-decoration: none;
+}
 .p1{
   width: 1920px;
   height: 768px;

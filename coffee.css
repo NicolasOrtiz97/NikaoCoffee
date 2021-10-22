@@ -599,7 +599,7 @@ ul{
   display: flex;
   position: relative;
   top: 32px;
-  left: 471%;
+  left: 400%;
 }
 li{
   color: #ffffff;
@@ -935,7 +935,7 @@ h3{
 }
 footer{
   background-color: #630F2B;
-  width: 1920px;
+  width: 1440px;
   height: 370px;
   margin-top: 101px;
 }
@@ -1020,7 +1020,7 @@ footer{
 }
 .fon1{
   background-color: #630F2B;
-  width: 1920px;
+  width: 1440px;
   height: 626px;
   position: absolute;
   top: 3315px;

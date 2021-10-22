@@ -7,11 +7,14 @@
         font-weight: 300;
         color: #000000;
         position: relative;
-        left: 13.58%;
+        left: 23.58%;
         top: 54px;
         width: 992px;
         height: auto;
         text-align: center;
+    }
+    .se1{
+        width: 1920px;
     }
     .cua1{
         width: 100%;
@@ -40,7 +43,7 @@
         color: #FFFFFF;
         position: relative;
         top: 77px;
-        left: 559px;
+        left: 825px;
         border-style: hidden;
     }
     .tity1{
@@ -82,14 +85,14 @@
         height: 518px;
         background-color: #F7AA14;
         position: relative;
-        left: 142px;
+        left: 570px;
     }
     .imgFS2{
         width: 475px;
         height: 360px;
         background-color: #F7AA14;
         position: relative;
-        left: 142px;
+        left: 570px;
     }
     .listtr2{
         display: inline;
@@ -114,7 +117,7 @@
         height: 360px;
         background-color: #000;
         position: relative;
-        left: 142px;
+        left: 570px;
     }
     .texc2{
         font-family: 'Poppins', sans-serif;
@@ -134,7 +137,7 @@
         font-weight: 600;
         color: #630F2B;
         position: relative;
-        left:33%;
+        left:37%;
         top: 60px;
         height: auto;
         width: 500px;
@@ -146,7 +149,7 @@
         font-weight: 300;
         color: #000000;
         position: relative;
-        left: 13.58%;
+        left: 24.58%;
         top: 89px;
         width: 992px;
         height: auto;
@@ -158,7 +161,7 @@
         box-shadow: 0px 0px 30px #00000029;
         position: relative;
         top: 152px;
-        left: 194px;
+        left: 475px;
         margin-bottom: 60px;
     }
     .lopiti{
@@ -197,7 +200,7 @@
         box-shadow: 0px 0px 30px #00000029;
         position: relative;
         top: 152px;
-        left: 194px;
+        left: 475px;
         margin-bottom: 60px;
     }
     .cardre3{
@@ -206,7 +209,7 @@
         box-shadow: 0px 0px 30px #00000029;
         position: relative;
         top: 152px;
-        left: 194px;
+        left: 475px;
         margin-bottom: 60px;
     }
     .cardre4{
@@ -215,7 +218,7 @@
         box-shadow: 0px 0px 30px #00000029;
         position: relative;
         top: 152px;
-        left: 194px;
+        left: 475px;
         margin-bottom: 60px;
     }
     }

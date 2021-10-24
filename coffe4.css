@@ -5,7 +5,10 @@
        
     }
     .qwq{
-        height: 1500px;
+        height: 990px !important;
+    }
+    .wqw{
+        height: 412px !important;
     }
     .tity21{
         font-family: 'Poppins', sans-serif;
@@ -46,7 +49,7 @@
     }
     .intro51{
         font-family: 'Poppins', sans-serif;
-        font-size: 16px;
+        font-size: 18px;
         font-weight: 300;
         color: #000000;
         position: relative;

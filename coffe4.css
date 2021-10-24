@@ -1,4 +1,132 @@
-
+@media screen and (max-width: 1920px){
+    .se154{
+        width: 100%;
+        position: relative;
+       
+    }
+    .qwq{
+        height: 1500px;
+    }
+    .tity21{
+        font-family: 'Poppins', sans-serif;
+        font-size: 52px;
+        font-weight: 600;
+        color: #630F2B;
+        position: relative;
+        left:36%;
+        top: 60px;
+        height: auto;
+        width: 500px;
+        text-align: center;
+    }
+    .intro41{
+        font-family: 'Poppins', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        color: #000000;
+        position: relative;
+        left: 22.58%;
+        top: 80px;
+        width: 992px;
+        height: auto;
+        text-align: center;
+        overflow-x: hidden;
+    }
+    .tity31{
+        font-family: 'Poppins', sans-serif;
+        font-size: 45px;
+        font-weight: 600;
+        color: #630F2B;
+        position: relative;
+        left:5%;
+        top: 60px;
+        height: auto;
+        width: 500px;
+        
+    }
+    .intro51{
+        font-family: 'Poppins', sans-serif;
+        font-size: 16px;
+        font-weight: 300;
+        color: #000000;
+        position: relative;
+        left: 5%;
+        top: 80px;
+        width: 700px;
+        height: auto;
+        
+        overflow-x: hidden; 
+    }
+    .iju{
+        width: 100%;
+        position: relative;
+        top: 90px;
+    }
+    }
+@media screen and (max-width: 1440px){
+    .se154{
+        width: 100%;
+        position: relative;
+       
+    }
+    
+    .tity21{
+        font-family: 'Poppins', sans-serif;
+        font-size: 52px;
+        font-weight: 600;
+        color: #630F2B;
+        position: relative;
+        left:33%;
+        top: 60px;
+        height: auto;
+        width: 500px;
+        text-align: center;
+    }
+    .intro41{
+        font-family: 'Poppins', sans-serif;
+        font-size: 18px;
+        font-weight: 300;
+        color: #000000;
+        position: relative;
+        left: 14.58%;
+        top: 80px;
+        width: 992px;
+        height: auto;
+        text-align: center;
+        overflow-x: hidden;
+    }
+    .tity31{
+        font-family: 'Poppins', sans-serif;
+        font-size: 45px;
+        font-weight: 600;
+        color: #630F2B;
+        position: relative;
+        left:5%;
+        top: 60px;
+        height: auto;
+        width: 500px;
+        
+    }
+    .intro51{
+        font-family: 'Poppins', sans-serif;
+        font-size: 16px;
+        font-weight: 300;
+        color: #000000;
+        position: relative;
+        left: 5%;
+        top: 80px;
+        width: 700px;
+        height: auto;
+        
+        overflow-x: hidden; 
+    }
+    .iju{
+        width: 100%;
+        position: relative;
+        top: 90px;
+    }
+    }
+@media screen and (max-width: 1366px){
 .se154{
     width: 100%;
     position: relative;
@@ -59,4 +187,5 @@
     width: 100%;
     position: relative;
     top: 90px;
+}
 }

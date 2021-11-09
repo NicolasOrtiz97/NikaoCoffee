@@ -45,7 +45,7 @@ ul{
   display: flex;
   position: relative;
   top: 32px;
-  left: 338%;
+  left: 206%;
 }
 li{
   color: #ffffff;
@@ -599,7 +599,7 @@ ul{
   display: flex;
   position: relative;
   top: 32px;
-  left: 224%;
+  left: 128%;
 }
 li{
   color: #ffffff;
@@ -833,7 +833,7 @@ h3{
   color: #FFFFFF;
   position: relative;
   top: 97px;
-  left: 70px;
+  left: 64px;
   border-style: hidden;
 }
 .bot2{
@@ -845,7 +845,7 @@ h3{
   color: #FFFFFF;
   position: relative;
   top: 97px;
-  left: 94px;
+  left: 64px;
   border-style: hidden;
 }
 .bot3{
@@ -857,7 +857,7 @@ h3{
   color: #FFFFFF;
   position: relative;
   top: 97px;
-  left: 6s4px;
+  left: 64px;
   border-style: hidden;
 }
 .sec6{

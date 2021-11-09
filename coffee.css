@@ -63,7 +63,7 @@ li{
 }
 .p1{
   width: 1920px;
-  height: 768px;
+  height: 1080px;
   margin: auto;
 }
 
@@ -89,7 +89,7 @@ h1{
   position: relative;
   left: 6.58%;
   top: 201px;
-  width: 2000px;
+  width: 1741px;
 }
 .rect2{
     width: 284px;
@@ -180,12 +180,13 @@ h3{
   overflow: hidden;
   margin-top: 70px !important;
   position: relative;
-  left: 8%;
+  left: 0%;
 }
 .service{
   display: flex;
   margin-top: 40px;
-  margin-left: 4%;
+  position: relative;
+  left: 303px;
 }
 .text2{
   text-align: left;
@@ -194,7 +195,7 @@ h3{
   color: #630F2B;
   position: relative;
   top: 200;
-  left: 29.8%;
+  left: 40.8%;
   width: 361px;
 }
 .cd1{
@@ -268,7 +269,7 @@ h3{
   color: #FFFFFF;
   position: relative;
   top: 97px;
-  left: 94px;
+  left: 64px;
   border-style: hidden;
 }
 .bot2{
@@ -280,7 +281,7 @@ h3{
   color: #FFFFFF;
   position: relative;
   top: 97px;
-  left: 94px;
+  left: 64px;
   border-style: hidden;
 }
 .bot3{
@@ -292,7 +293,7 @@ h3{
   color: #FFFFFF;
   position: relative;
   top: 97px;
-  left: 94px;
+  left: 64px;
   border-style: hidden;
 }
 .sec6{
@@ -743,7 +744,7 @@ h3{
   width: 1440px;
   margin: auto;
   overflow: hidden;
-  margin-top: -263px !important;
+  margin-top: 108px !important;
   position: relative;
   left: 2%;
 }
@@ -751,6 +752,8 @@ h3{
   display: flex;
   margin-top: 40px;
   margin-left: 4%;
+  position: relative;
+  left: 0px;
 }
 .text2{
   text-align: left;

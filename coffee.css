@@ -1738,8 +1738,8 @@ h1{
   }
   
   .img1{
-    width: 1366px;
-    height: auto;
+    width: 375px;
+    height: inherit;
     position: absolute;
     top: 0%;
     left: 0%;
@@ -1833,7 +1833,7 @@ h1{
  
   .sec5{
     
-    width: 1366px;
+    width: 375px;
     margin: auto;
     margin-top: 70px !important;
     

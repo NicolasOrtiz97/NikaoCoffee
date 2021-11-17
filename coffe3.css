@@ -550,7 +550,7 @@ li{
     font-weight: 300;
   }
 }
-@media screen and (max-width: 1366px){
+@media screen and (max-width: 400px){
 
   .nav122{
       height: 80px;
@@ -578,13 +578,19 @@ li{
       top: 16px;
       left: 131%;
     }
-  li{
+  
+    li{
       color: #ffffff;
       list-style: none;
       outline-style: none;
       font-family: 'Rubik', sans-serif;
       font-size: 20px;
       font-weight: 500;
+    }
+    .sss{
+      position: relative;
+    top: 80px;
+
     }
     .julio{
       color: #ffffff;

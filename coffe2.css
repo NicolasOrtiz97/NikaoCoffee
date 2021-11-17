@@ -669,22 +669,26 @@
 @media screen and (max-width: 400px){
     .intro1{
         font-family: 'Poppins', sans-serif;
-        font-size: 16px;
-        font-weight: 300;
-        color: #000000;
-        position: relative;
-        left: 13.58%;
-        top: 54px;
-        width: 992px;
-        height: auto;
-        text-align: center;
+    font-size: 14px;
+    font-weight: 300;
+    color: #000000;
+    position: relative;
+    left: 11.58%;
+    top: 116px;
+    width: 300px;
+    height: auto;
+    text-align: center;
     }
     .se1{
-        width: 1366px;
+        width: 100%;
+    }
+    .ju58{
+        height: 535px !important;
+
     }
     .cua1{
         width: 100%;
-        height:200px ;
+        height:332px ;
         background-color: #F7AA14;
         position: relative;
         top: 0px;
@@ -709,19 +713,20 @@
         color: #FFFFFF;
         position: relative;
         top: 77px;
-        left: 559px;
+        left: 69px;
         border-style: hidden;
     }
     .tity1{
         font-family: 'Poppins', sans-serif;
-        font-size: 40px;
-        font-weight: 600;
-        color: #630F2B;
-        position: relative;
-        left:5%;
-        top: 60px;
-        height: auto;
-        width: 500px;
+    font-size: 34px;
+    font-weight: 600;
+    color: #630F2B;
+    position: relative;
+    left: 19%;
+    top: 60px;
+    height: auto;
+    width: 236px;
+    text-align: center;
         
     }
     .listFS{
@@ -729,22 +734,22 @@
     }
     .listtr{
         display: inline;
-        left: 3%;
+        left: 1%;
         width: 700px;
         height: 477px;
     }
     .loi{
         font-family: 'Poppins', sans-serif;
-        font-size: 16px;
-        font-weight: 400;
-        color: #630F2B;
-        position: relative;
-        left:5%;
-        top: 54px;
-        height: auto; 
-        list-style: square; 
-        margin: 5px;
-        width: 1000px;
+    font-size: 14px;
+    font-weight: 400;
+    color: #630F2B;
+    position: relative;
+    left: 15%;
+    top: 54px;
+    height: auto;
+    list-style: square;
+    margin: 5px;
+    width: 300px;
     }
     .imgFS{
         width: 475px;
@@ -752,6 +757,7 @@
         background-color: #F7AA14;
         position: relative;
         left: 142px;
+        display: none;
     }
     .imgFS2{
         width: 475px;
@@ -759,24 +765,29 @@
         background-color: #F7AA14;
         position: relative;
         left: 142px;
+        display: none;
     }
     .listtr2{
         display: inline;
-        left: 3%;
+        left: 1%;
         width: 700px;
         height: 340px;
     }
+    .hyh{
+        height: 580px !important;
+    }
     .texc1{
         font-family: 'Poppins', sans-serif;
-        font-size: 16px;
-        font-weight: 300;
-        color: #fff;
-        position: relative;
-        left: 6.58%;
-        top: 95px;
-        height: 232px;
-        text-align: left;
-        width: 700px;
+    font-size: 14px;
+    font-weight: 300;
+    color: #fff;
+    position: relative;
+    left: 9.58%;
+    top: 95px;
+    height: 417px;
+    text-align: left;
+    width: 300px;
+    text-align: center;
     }
     .imgFS3{
         width: 475px;
@@ -784,50 +795,58 @@
         background-color: #000;
         position: relative;
         left: 142px;
+        display: none;
+    }
+    .kilo{
+        height: 691px !important;
     }
     .texc2{
         font-family: 'Poppins', sans-serif;
-        font-size: 16px;
-        font-weight: 300;
-        color: #630F2B;
-        position: relative;
-        left: 6.58%;
-        top: 95px;
-        height: 232px;
-        text-align: left;
-        width: 700px;
+    font-size: 14px;
+    font-weight: 300;
+    color: #630F2B;
+    position: relative;
+    left: 11.58%;
+    top: 95px;
+    height: 232px;
+    text-align: center;
+    width: 300px;
     }
     .tity2{
         font-family: 'Poppins', sans-serif;
-        font-size: 40px;
+        font-size: 35px;
         font-weight: 600;
         color: #630F2B;
         position: relative;
-        left:33%;
+        left: 17%;
         top: 60px;
         height: auto;
-        width: 500px;
+        width: 250px;
         text-align: center;
+    
+    }
+    .fre{
+        height: 2374px !important;
     }
     .intro4{
         font-family: 'Poppins', sans-serif;
-        font-size: 18px;
-        font-weight: 300;
-        color: #000000;
-        position: relative;
-        left: 13.58%;
-        top: 89px;
-        width: 992px;
-        height: auto;
-        text-align: center;
+    font-size: 14px;
+    font-weight: 300;
+    color: #000000;
+    position: relative;
+    left: 13.58%;
+    top: 89px;
+    width: 300px;
+    height: auto;
+    text-align: center;
     }
     .cardre{
-        width: 1000px;
-        height: 300px;
+        width: 300px;
+        height: 672px;
         box-shadow: 0px 0px 30px #00000029;
         position: relative;
         top: 152px;
-        left: 194px;
+        left: 42px;
         margin-bottom: 60px;
     }
     .lopiti{
@@ -839,20 +858,20 @@
         left: 30px;
         top: 35px;
         text-align: left;
-        width: 400px;
+        width: 246px;
     }
     .lopitit{
         font-family: 'Poppins', sans-serif;
-        font-size: 14px;
-        font-weight: 300;
-        color: #630F2B;
-        position: relative;
-        left: 5%;
-        top: 15px;
-        height: auto;
-        list-style: square;
-        margin: 5px;
-        width: 890px;
+    font-size: 14px;
+    font-weight: 300;
+    color: #630F2B;
+    position: relative;
+    left: 5%;
+    top: 15px;
+    height: auto;
+    list-style: square;
+    margin: 5px;
+    width: 242px;
     }
     .listFS2{
         display: inline;
@@ -861,30 +880,30 @@
     
     }
     .cardre2{
-        width: 1000px;
-        height: 255px;
-        box-shadow: 0px 0px 30px #00000029;
-        position: relative;
-        top: 152px;
-        left: 194px;
-        margin-bottom: 60px;
+        width: 300px;
+    height: 469px;
+    box-shadow: 0px 0px 30px #00000029;
+    position: relative;
+    top: 152px;
+    left: 42px;
+    margin-bottom: 60px;
     }
     .cardre3{
-        width: 1000px;
-        height: 210px;
-        box-shadow: 0px 0px 30px #00000029;
-        position: relative;
-        top: 152px;
-        left: 194px;
-        margin-bottom: 60px;
+        width: 300px;
+    height: 365px;
+    box-shadow: 0px 0px 30px #00000029;
+    position: relative;
+    top: 152px;
+    left: 42px;
+    margin-bottom: 60px;
     }
     .cardre4{
-        width: 1000px;
-        height: 160px;
+        width: 300px;
+        height: 242px;
         box-shadow: 0px 0px 30px #00000029;
         position: relative;
         top: 152px;
-        left: 194px;
+        left: 42px;
         margin-bottom: 60px;
     }
     }

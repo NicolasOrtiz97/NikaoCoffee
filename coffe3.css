@@ -550,7 +550,7 @@ li{
     font-weight: 300;
   }
 }
-@media screen and (max-width: 400px){
+@media screen and (max-width: 414px){
 
   .nav122{
       height: 80px;

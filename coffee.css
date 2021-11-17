@@ -1731,14 +1731,14 @@ h1{
     text-decoration: none;
   }
   .p1{
-    width: 375px;
+    width: 100%;
     height: 768px;
     margin: auto;
     overflow-x: hidden;
   }
   
   .img1{
-    width: 375px;
+    width: 100%;
     height: inherit;
     position: absolute;
     top: 0%;
@@ -1860,6 +1860,7 @@ h1{
     width: 337px;
     height: 568px;
     margin: 1.3%;
+    margin-bottom: 23px;
   }
   .img4{
     width: 337px;

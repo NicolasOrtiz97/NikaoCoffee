@@ -553,51 +553,42 @@ li{
 @media screen and (max-width: 414px){
 
   .nav122{
-      height: 80px;
-        width: 100%;
-        position: absolute;
-        top: 0px;
-        left: 0px;
-        background-color: #630F2B;
-        
-        display: flex;
+    height: 80px;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    
+    
+    display: flex;
+  }
+  .poreso{
+    height: 46px;
   }
   .logi{
-      height: 60px;
-      width: auto;
-      position: relative;
-      top: 16px;
-      left: 30px;
-    }
-  .poreso{
-      height: 46px;
-    }
+    display: none;
+  }
   ul{
-      display: flex;
-      position: relative;
-      top: 16px;
-      left: 131%;
-    }
-  
-    li{
-      color: #ffffff;
-      list-style: none;
-      outline-style: none;
-      font-family: 'Rubik', sans-serif;
-      font-size: 20px;
-      font-weight: 500;
-    }
-    .sss{
-      position: relative;
-    top: 80px;
+    display: flex;
+    position: relative;
+    top: 15px;
+    left: -10%;
 
-    }
-    .julio{
-      color: #ffffff;
-      font-style: none;
-      border-style: none;
-      text-decoration: none;
-    }
+  }
+  li{
+    color: #ffffff;
+    list-style: none;
+    outline-style: none;
+    font-family: 'Rubik', sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+  }
+  .julio{
+    color: #ffffff;
+    font-style: none;
+    border-style: none;
+    text-decoration: none;
+  }
     .julio:hover{
       color: #F7AA14;
     }
@@ -620,21 +611,21 @@ li{
       
     }
     .formatox{
-      width: 638px;
-      height: 796px;
-      background-color: white;
-      box-shadow: 0px 0px 25px #00000029;
-      position: relative;
-      left: 24%;
+      width: 350px;
+    height: 796px;
+    background-color: white;
+    box-shadow: 0px 0px 25px #00000029;
+    position: relative;
+    left: 7%;
     }
     .Ftitulox{
       font: normal normal bold 24px/28px Rubik;
-      letter-spacing: 0px;
-      color: #630F2B;
-      position: relative;
-      top: 48px;
-      left: 29%;
-      width: 68%;
+    letter-spacing: 0px;
+    color: #630F2B;
+    position: relative;
+    top: 48px;
+    left: 12%;
+    width: 77%;
     }
     input[type=text]{
       width:  91%;
@@ -644,7 +635,7 @@ li{
       box-sizing: border-box;
     }
     label{
-      font: normal normal normal 16px/23px Poppins;
+      font: normal normal normal 15px/23px Poppins;
       color: #630F2B;
     }
     input[type=text]:focus{
@@ -682,7 +673,7 @@ li{
     }
     .img10{
       position: relative;
-      top: 85px;
+      top: 45px;
       left: 66px;
       width: 209px;
       height: auto;
@@ -702,41 +693,42 @@ li{
       top: 195px;
       left: 66px;
       font-weight: 300;
+      display: none;
     }
     .fot2{
-      width: 384px;
-      height: auto;
-      text-align: left;
-      font: normal normal normal 16px/23px Poppins;
-      letter-spacing: 0px;
-      color: white;
-      position: relative;
-      top: -23px;
-      left: 536px;
-      font-weight: 300;
+      width: 308px;
+    height: auto;
+    text-align: left;
+    font: normal normal normal 16px/23px Poppins;
+    letter-spacing: 0px;
+    color: white;
+    position: relative;
+    top: 59px;
+    left: 24px;
+    font-weight: 300;
     }
     .fot3{
       width: 254px;
-      height: auto;
-      text-align: left;
-      font: normal normal normal 16px/23px Poppins;
-      letter-spacing: 0px;
-      color: white;
-      position: relative;
-      top: 30px;
-      left: 536px;
-      font-weight: 300;
+    height: auto;
+    text-align: left;
+    font: normal normal normal 16px/23px Poppins;
+    letter-spacing: 0px;
+    color: white;
+    position: relative;
+    top: 70px;
+    left: 28px;
+    font-weight: 300;
     }
     .fot4{
       width: 228px;
-      height: auto;
-      text-align: left;
-      font: normal normal normal 16px/23px Poppins;
-      letter-spacing: 0px;
-      color: white;
-      position: relative;
-      top: -114px;
-      left: 996px;
-      font-weight: 300;
+    height: auto;
+    text-align: left;
+    font: normal normal normal 16px/23px Poppins;
+    letter-spacing: 0px;
+    color: white;
+    position: relative;
+    top: 74px;
+    left: 30px;
+    font-weight: 300;
     }
   }
